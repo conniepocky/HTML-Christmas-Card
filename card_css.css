@@ -1,0 +1,20 @@
+body{
+  background-color: #222222;
+  font-family: Jua;
+  border: dotted;
+  border-color: lime;
+  text-align: center;
+  color: lime;
+}
+button{
+  color: red;
+}
+
+
+#p2 {
+  background-color: black;
+}
+
+img {
+  width: 350px;
+}
